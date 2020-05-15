@@ -1,6 +1,11 @@
 # filemanager_ui
 
-A new Flutter project.
+This is an UI challege with flutter where i am trying to replicate design in flutter in which i am currently been working.
+![Dev](https://user-images.githubusercontent.com/55974796/82030990-e9ddd680-96b8-11ea-889a-e2deb212cbb8.png)
+
+The design i have been working as a reference is bellow:
+
+
 
 ## Getting Started
 
